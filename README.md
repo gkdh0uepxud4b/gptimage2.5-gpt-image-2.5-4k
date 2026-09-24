@@ -1,12 +1,12 @@
 # gpt-image-2.5-ext API (gptimage2.5) — 4K guide with per-unit pricing
 
 <p align="center">
-  <img src="hero.jpg" width="820" alt="gpt-image-2.5-ext sample">
+  <img src="hero.jpg" width="820" alt="sample output">
 </p>
 
 > **4K at $0.021 per image** (2K $0.014, 1K $0.0085) — flat per-image billing, flare and sunburst both included.
 
-**[Model page](https://apimart.ai/model/gpt-image-2.5-ext)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-5bb57a)** · **[Live pricing](https://go.apimart.ai/k-f2a7c0)** · **[Get an API key](https://go.apimart.ai/k-26fb74)**
 
 Everything on this page refers to **gpt-image-2.5-ext** — also written **gptimage2.5**, **gpt image 2.5 ext** or **gpt-image-25-ext** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
