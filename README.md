@@ -1,7 +1,7 @@
 # gpt-image-2.5-ext API (gptimage2.5) — 4K guide with per-unit pricing
 
 <p align="center">
-  <img src="assets/hero.jpg" width="820" alt="gpt-image-2.5-ext sample">
+  <img src="hero.jpg" width="820" alt="gpt-image-2.5-ext sample">
 </p>
 
 > **4K at $0.021 per image** (2K $0.014, 1K $0.0085) — flat per-image billing, flare and sunburst both included.

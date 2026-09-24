@@ -1,0 +1,13 @@
+{
+  "model": "gpt-image-2.5-ext",
+  "alias": "gptimage2.5",
+  "variant": "4k",
+  "snapshot": "2026-09-24",
+  "unit_prices": {
+    "4K": 0.021,
+    "2K": 0.014,
+    "1K": 0.0085
+  },
+  "source": "https://apimart.ai/en/pricing",
+  "links": {}
+}
